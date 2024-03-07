@@ -1,18 +1,5 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection
 
 ### Personal Information
 
@@ -55,6 +42,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+       - Software Development
+       - Front End Developer
+       - Backend Developer
+       - Game Development
+       - API's
+
     - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
