@@ -3,10 +3,10 @@
 
 ### Personal Information
 
-- **Name:** Jed Ernstzen
-- **Date:** 05/03/2024
-- **Current Role/Position:** Intern/Student
-- **Field of Interest:** Software development/Programming
+ - **Name:** Jed Ernstzen
+ - **Date:** 05/03/2024
+ - **Current Role/Position:** Intern/Student
+ - **Field of Interest:** Software development/Programming
 
 ### Part 1: Self-Assessment Reflection
 
