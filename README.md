@@ -49,6 +49,11 @@
        - API's
 
     - Note any particular areas that piqued your interest.
+       - Software Development
+       - Front End Developer
+       - Backend Developer
+       - Game Development
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
