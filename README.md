@@ -13,29 +13,29 @@
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-      - **Entry Level Web Developer**
-      - **Entry Level Javascript**
-      - **Advanced skills in CSS3 and Tailwind**
-      - **Intermediate Level skills in HTML5**
+      - Entry Level Web Developer
+      - Entry Level Javascript
+      - Advanced skills in CSS3 and Tailwind
+      - Intermediate Level skills in HTML5
 
     - Identify skills you need to develop or improve.
-      - **fully understanding javascript**
-      - **I'm looking to expand my understanding of APIs and delve deeper into their functionality.**
-      - **Time Management**
+      - fully understanding javascript
+      - I'm looking to expand my understanding of APIs and delve deeper into their functionality.
+      - Time Management
 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
-      - **My grandfather was an engineer and I always thought to myself when I was younger "Why does this function like this" "How is it possible to Program it this way"**
-      - **I've always loved video games and technology, Always wondering how phones were able to display such complex things on such a small device**
-      - **UI and its role in Software development**
+      - My grandfather was an engineer and I always thought to myself when I was younger "Why does this function like this" "How is it possible to Program it this way"
+      - I've always loved video games and technology, Always wondering how phones were able to display such complex things on such a small device
+      - UI and its role in Software development
 
     - What values are important to you in a work environment?
-      - **Trust**
-      - **Respect**
-      - **Communication**
-      - **Accountability**
-      - **Integrity**
+      - Trust
+      - Respect
+      - Communication
+      - Accountability
+      - Integrity
 
 ### Part 2: Career Exploration Insights
 
