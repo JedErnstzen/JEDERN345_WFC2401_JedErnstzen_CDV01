@@ -80,26 +80,26 @@
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-    - Maintain a good work-life balance and make a positive impact on others
-    - Master certain languages in my arsenal
-    - Become a full-stack developer
+      - Maintain a good work-life balance and make a positive impact on others
+      - Master certain languages in my arsenal
+      - Become a full-stack developer
 
     - Describe how these align with your interests and skills.
-    - Making a good work-life balance is hard to achieve currently and I would like to so that I don't face burnout and pursue other hobbies outside of my work
-    - I want to master the field I choose in the future so that I can become a specialist in such a field
-    - I want to become a full-stack developer so that I can have versatility and open up job possibilities for myself
+      - Making a good work-life balance is hard to achieve currently and I would like to so that I don't face burnout and pursue other hobbies outside of my work
+      - I want to master the field I choose in the future so that I can become a specialist in such a field
+      - I want to become a full-stack developer so that I can have versatility and open up job possibilities for myself
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
-     - Take the React course on Scrimba and make a project with React to increase my understanding
-     - look and apply for jobs in the software development sphere with the help of others
-     - Learn Python through online courses such as Scrimba
+      - Take the React course on Scrimba and make a project with React to increase my understanding
+      - look and apply for jobs in the software development sphere with the help of others
+      - Learn Python through online courses such as Scrimba
 
     - Include any resources or support required.
-     - Recommendations from the Codespace/Wafunda
+      - Recommendations from the Codespace/Wafunda
 
 2. **Preparation for Long-term Goals**:
     
