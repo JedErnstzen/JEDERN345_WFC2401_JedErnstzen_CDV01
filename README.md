@@ -20,7 +20,7 @@
 
     - Identify skills you need to develop or improve.
       - Fully understanding javascript
-      - I'm looking to expand my understanding of APIs and delve deeper into their functionality.
+      - Expanding my understanding of APIs and delve deeper into their functionality.
       - Time Management
 
 2. **Interests and Values**:
