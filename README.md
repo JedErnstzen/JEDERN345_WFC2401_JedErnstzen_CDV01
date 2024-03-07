@@ -19,7 +19,7 @@
       - Intermediate Level skills in HTML5
 
     - Identify skills you need to develop or improve.
-      - fully understanding javascript
+      - Fully understanding javascript
       - I'm looking to expand my understanding of APIs and delve deeper into their functionality.
       - Time Management
 
